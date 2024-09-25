@@ -23,9 +23,7 @@
 * `python zohanold.py`
 
 
-___MADE BY ZOHAN![Screenshot_20240913-164217](https://github.com/user-attachments/assets/d196d26c-514c-4dab-afd6-7587b85220fe)
-![Screenshot_20240913-164217](https://github.com/user-attachments/assets/ecf03e8b-024e-4483-ab9e-24944aebf1b8)
-.___</br>
+___MADE BY ZOHAN.___</br>
 
 ## SCREENSHOT :
 ![Screenshot_20240913-164217](https://github.com/user-attachments/assets/fc15148e-a2b9-40fa-966e-64939edfce37)
