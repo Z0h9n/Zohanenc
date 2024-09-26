@@ -16,7 +16,7 @@
 
 * `rm -rf Zohanenc`
 
-* `git clone https://github.com/Z0h9n/Zohanenc`
+* `git clone https://github.com/Z0h9n/Zohanenc.git`
 
 * `cd Zohanenc`
 
